@@ -18,6 +18,7 @@ This was tested only on CS:GO & CentOS 7.2
  1. Downloads the .mp3 file from google TTS API
  2. Convert it to the right Sample Rate
  3. Make clients to download it
+ * [Video](https://youtu.be/A3egPTy9hhA)
  
 # TODO
  * Move mp3 files to fastdl.
