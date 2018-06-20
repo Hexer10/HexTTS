@@ -14,6 +14,11 @@ This was tested only on CS:GO & CentOS 7.2
  * sm_getSound \<lang\> \<file name without .mp3\> \<text\> -> Download Server & Connected clients the sound.
  * sm_playLast -> Play the last downloaded sound.
  
+# How it works?
+ 1. Downloads the .mp3 file from google TTS API
+ 2. Convert it to the right Sample Rate
+ 3. Make clients to download it
+ 
 # TODO
  * Move mp3 files to fastdl.
  
