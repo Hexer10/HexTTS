@@ -14,3 +14,6 @@ This was tested only on CS:GO & CentOS 7.2
  * sm_getSound \<lang\> \<file name without .mp3\> \<text\> -> Download Server & Connected clients the sound.
  * sm_playLast -> Play the last downloaded sound.
  
+# TODO
+ * Move mp3 files to fastdl.
+ 
